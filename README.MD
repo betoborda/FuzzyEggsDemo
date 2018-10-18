@@ -2,10 +2,10 @@ A console app to compute time for boiling eggs (based on "An Egg-Boiling Fuzzy L
 
 # How to use 
 
-## requirements
+## Requirements
 for execute this program you'll need Python 3.x (you can get from http://python.org)
 
-## installaion
+## Installation
 1. clone the repo `git clone https://github.com/jmaquin0/fuzzyEggsDemo.git`
 2. go to the project directory: `cd fuzzyEggsDemo`
 3. (optional) create and activate a virtual environment
