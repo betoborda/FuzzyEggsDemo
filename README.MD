@@ -9,10 +9,10 @@ for execute this program you'll need Python 3.x (you can get from http://python.
 1. clone the repo `git clone https://github.com/jmaquin0/fuzzyEggsDemo.git`
 2. go to the project directory: `cd fuzzyEggsDemo`
 3. (optional) create and activate a virtual environment
-    a. create the virtual environment: `python3 -m venv venv`
-    b. activate the virtual environment: `source venv/bin/activate`
+    - create the virtual environment: `python3 -m venv venv`
+    - activate the virtual environment: `source venv/bin/activate`
 4. install required packages: `pip install -r requirements.txt`
-    a. if there is an error during installation install packages individually:
+    - if there is an error during installation install packages individually:
     ```
     pip install numpy
     pip install matplotlib
